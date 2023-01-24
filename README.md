@@ -1,16 +1,27 @@
-### Hi there 👋
+# heading 
 
-<!--
-**Fermin-Garcia/Fermin-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### a link 
+```markdown
+[link_name](www.github.com/fermin-garcia)
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+#  heading 1 
+```markdown
+this is **Bold**
+```
+this is **bold** 
+```python
+def square(a):
+  squared_value = a*a
+  ```
+
+this is *italics*
+## heading 2
+### heading 3 
+#### heading 4 
+##### heading 5 
+###### heading 6
