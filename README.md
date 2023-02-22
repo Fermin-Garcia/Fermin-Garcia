@@ -1,4 +1,4 @@
-# Fermin
+# Fermin F. Garcia IV
 
 I am an **Air Force veteran**  with a background in medical administration and weapons loading for the B52H aircraft, currently pursuing a data science program at Codeup. My passion for all things magic has led me to explore the fascinating intersection of data science and magic, where I'm excited to apply my skills and curiosity to unique and creative projects.
 
