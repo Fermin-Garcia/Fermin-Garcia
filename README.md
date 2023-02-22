@@ -1,6 +1,6 @@
 # Fermin
 
-I am a **data science student** at Codeup, and an **Air Force veteran** with experience in medical administration and weapons loading for the B52H aircraft. I'm passionate about all things magic and enjoy exploring the intersection of data science and magic.
+I am an **Air Force veteran**  with a background in medical administration and weapons loading for the B52H aircraft, currently pursuing a data science program at Codeup. My passion for all things magic has led me to explore the fascinating intersection of data science and magic, where I'm excited to apply my skills and curiosity to unique and creative projects.
 
 ## Skills
 
