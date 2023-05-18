@@ -35,7 +35,21 @@ Using students' socioeconomic status, we created a model to identify high-risk s
 ### United States Air Force - Lackland AFB, TX
 **Senior Manager, Outpatient Services** (Apr 2020 - Jun 2023)
 
-While in Health Information Management, I trained 45 providers on operations management and facilitated process improvement, which led to the resolution of 150 errors. Successfully led a team of personnel and 16 programs, in unifying the Air Force's largest release of healthcare information ensuring proper medical documents for 242K members. I drove the wing's patient safety program, which resulted in amending 25 electronic health record errors, earning me the "Good Catch" award.
+Managed patient services, verifying eligibility and registering new patients for approximately 253,000 beneficiaries using the Composite Health Care System (CHCS). Coordinated translation services for 33 medical clinics, contributing to an improved patient experience.
+
+Spearheaded the training of 9 personnel in patient administration tasks, resulting in increased operational efficiency. Led the patient travel program, effectively processing 83 authorizations and vouchers worth $65,000, thereby clearing an 8-month backlog and ensuring timely care for 63 personnel.
+
+Administered the patient admissions program, tracking and notifying treatment details of 963 patients to their respective unit leadership. This initiative increased mission readiness capacity for 15,000 active-duty personnel.
+
+Contributed to the implementation of an Electronic Health Record (EHR) initiative, importing 225,000 charts, eliminating a 30-year backlog within 5 months, saving approximately $1 million in potential service contract costs.
+
+Actively participated in the COVID vaccination efforts, updating individual medical records for over 5,400 patients and safeguarding a building catering to 253,000 beneficiaries.
+
+In a leadership role, identified 150 process errors and delays, trained providers on timeliness process standards, resulting in the saving of 260 man-hours annually. Coordinated with five agencies to secure interpreter services, enhancing patient care.
+
+Engaged in community-building activities, performing at a holiday party to boost morale for 225 members. Pursued continuous learning by working towards an associate's degree and completing upgrade training.
+
+Guided the initial transition to Genesis software, identifying and correcting 655 Provider Information Transfer errors, thereby preventing potential harm from misfiled documents. Served as a Patient Safety Reporting Investigator, screening 32 safety findings and quality checking 12 reports, solving cases within 5 days, and averting potential harm events.
 
 ### United States Air Force - Minot AFB, ND
 **Specialist, Equipment Maintenance and Logistics** (Jan 2017 - Mar 2020)
