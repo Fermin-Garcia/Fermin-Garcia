@@ -1,8 +1,8 @@
 # Fermin Garcia
 Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/fermingarcia1)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](GitHub/FerminGarcia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fermingarcia1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](GitHub/Fermin-Garcia)
 
 As an Air Force Veteran and Data Scientist, my weaponry and medical administration background has fostered my adaptability, creativity, and versatility in fast-paced, ever-changing environments. My passion for problem-solving and uncovering hidden data patterns led me to transition to data science, where I bring a unique perspective to innovative solutions for employers and customers.
 
