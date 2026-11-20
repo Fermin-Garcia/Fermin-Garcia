@@ -1,58 +1,49 @@
 # Fermin Garcia
-Data Scientist
+
+Data Scientist | San Antonio, Texas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fermingarcia1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](GitHub/Fermin-Garcia)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fermin-Garcia)
 
-As an Air Force Veteran and Data Scientist, my weaponry and medical administration background has fostered my adaptability, creativity, and versatility in fast-paced, ever-changing environments. My passion for problem-solving and uncovering hidden data patterns led me to transition to data science, where I bring a unique perspective to innovative solutions for employers and customers.
+I'm an Air Force veteran. I worked in weapons and medical administration before moving into data science. The military taught me to adapt quickly and stay calm when plans change, and I bring that to data work: I like taking messy, real-world data and turning it into something a decision-maker can act on.
 
-🚀 **Skills and Expertise:**
-- Python
-- SQL
-- Tableau
-- Matplotlib
-- MySQL
-- Pandas
-- NumPy
-- Spark
-- Git
-- Applied Statistics
-- Machine Learning
-- Natural Language Processing
-- Data Storytelling
+These days I build data and web applications through [DataSphere Analytics](https://github.com/DataSphere-Analytics), including [Open America](https://github.com/OpenAmerica-IO), a platform for exploring congressional data.
 
-🔬 **Projects:**
-1. Wine Quality Model (April 2023)
-   - Predicting wine quality score based on factors such as acidity, sugar amount, and alcohol content.
-   - Built a linear regression model to identify significant variables and make quality predictions.
-   - Tools used: Pandas, NumPy, Scikit-learn, Jupyter Lab.
+## Skills
 
-2. EduTrends: EduTrend (May 2023)
-   - Developed a model to identify high-risk students based on socioeconomic status.
-   - Aims to create support groups to help struggling students receive the education they deserve.
-   - Tools used: Kaggle, Pandas, NumPy, Scikit-learn, Jupyter Lab, Plotly.
+- **Languages and data:** Python, SQL, MySQL, Pandas, NumPy, Spark
+- **Machine learning:** Scikit-learn, classification, regression, clustering, natural language processing
+- **Statistics:** hypothesis testing, applied statistics
+- **Visualization and communication:** Matplotlib, Seaborn, Plotly, Tableau, data storytelling
+- **Tools:** Git, GitHub, Jupyter
 
+## Projects
 
+| Project | What it does | Tools |
+| --- | --- | --- |
+| [Tex-Wrex](https://github.com/tex-wrex/tex-wrex) (team capstone, 2023) | Predicts injury severity in single-motorcycle crashes using five years of Texas CRIS crash data, then turns the predictions into a rider risk score for insurance pricing. | Pandas, Scikit-learn, Matplotlib |
+| [EduTrends](https://github.com/Fermin-Garcia/EduTrends) (2023) | Flags students at risk of struggling academically using family and socioeconomic factors. Includes a script that scores new entries submitted through a Google Form. | Pandas, Scikit-learn, Plotly |
+| [AI-Buster](https://github.com/Garcia-Burch-NLP/AI-Buster) (with Josh Burch, 2023) | Classifies essays as student-written or AI-generated, using part-of-speech patterns as features. | NLTK, Pandas, Scikit-learn |
+| [Zillow Regression Model](https://github.com/Fermin-Garcia/Zillow-Regression-Model) (2023) | Predicts assessed values of single-family homes in Los Angeles, Orange, and Ventura counties. Linear regression cut RMSE from about $430K (baseline) to about $76K. | SQL, Pandas, Scikit-learn |
+| [Telco Churn Classification](https://github.com/Fermin-Garcia/classification_project) (2023) | Predicts which telecom customers will cancel service. A random forest reached 79% validation accuracy against a 73% baseline. | SQL, Pandas, Scikit-learn |
+| [Space Cowboys](https://github.com/The-Wranglers/space-cowboys-game) (team, 2025) | An open-source arcade game built with Pygame. | Python, Pygame |
+| [Data Science Pipeline Checklists](https://github.com/Fermin-Garcia/data_science_pipeline_checklists) | A step-by-step checklist for each stage of a data science project, from planning to monitoring. | Markdown |
 
-🔒 **Clearance:** TS/SCI clearance eligible.
+## Clearance
 
-📚 **Education:**
+TS/SCI clearance eligible.
 
-Codeup
+## Education and Training
 
-Data Science (Jan 2023 - Jul 2023)
-Fully-immersive, project-based 20-week career accelerator that provided me with 670+ hours of expert instruction in applied data science.
-Developed expertise across the full pipeline (planning, acquisition, preparation, exploration, modeling, storytelling).
-Became comfortable working with real, messy data to deliver actionable insights to diverse stakeholders.
-Airman Leadership School
+**Codeup**, Data Science Career Accelerator (Jan 2023 - Jul 2023)
+A 20-week, project-based program with 670+ hours of instruction in applied data science. Covered the full pipeline (planning, acquisition, preparation, exploration, modeling, and storytelling) using real, messy data and presenting results to non-technical stakeholders.
 
-Leadership and Management Development Course (Oct 2020 - Dec 2020)
-Community College of The Air Force
+**Community College of the Air Force** (Jun 2016 - Jun 2022)
+Introductory Military Training and Advanced Skill Training.
 
-Introductory Military Training (Jun 2016 - Jun 2022)
-Advanced Skill Training
+**Airman Leadership School**, Leadership and Management Development Course (Oct 2020 - Dec 2020)
 
-📧 **Contact:**
+## Contact
+
 - Email: fermin.f.garcia1@gmail.com
-
-Let's connect and explore opportunities to collaborate! Feel free to reach out via LinkedIn or GitHub.
+- LinkedIn: [fermingarcia1](https://www.linkedin.com/in/fermingarcia1/)
